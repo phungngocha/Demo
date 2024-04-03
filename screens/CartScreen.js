@@ -156,7 +156,7 @@ function CartScreen({ route }) {
      // Cập nhật tổng với số ngẫu nhiên
   setTotal(soNgauNhien);
     // Thực hiện logic khi áp dụng mã ưu đãi
-    console.log('Áp dụng mã ưu đãi:', promoCode);
+    console.log('Áp dụng ưu đãi:', promoCode);
     console.log('Tổng:', soNgauNhien);
     setPromoCode('');
 

@@ -53,7 +53,7 @@ const books = [
       year: 2023,
       price: 100000,
       category: 'Hồi Ký - Tuỳ Bút',
-      description: 'Lạc giữa nhân gian là một cuốn sách tản văn của tác giả Đặng Nguyễn Đông Vy, được phát hành năm 2023. Lạc giữa nhân gian là những suy tư dịu dàng mà sâu sắc của tác giả về cuộc sống, về tình yêu, về hạnh phúc. Tác giả viết về những điều bình dị trong cuộc sống, những khoảnh khắc nhỏ bé nhưng đáng nhớ, những suy ngẫm về bản thân và thế giới xung quanh.',
+      description: 'Lạc giữa nhân gian là một cuốn sách tản văn của Đặng Nguyễn Đông Vy, được phát hành năm 2023. Lạc giữa nhân gian là những suy tư dịu dàng mà sâu sắc của tác giả về cuộc sống, về tình yêu, về hạnh phúc. Tác giả viết về những điều bình dị trong cuộc sống, những khoảnh khắc nhỏ bé nhưng đáng nhớ, những suy ngẫm về bản thân và thế giới xung quanh.',
       image: require('../screens/img/lac-giua-nhan-gian.jpg'),
     },
     {

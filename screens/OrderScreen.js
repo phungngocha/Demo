@@ -19,9 +19,9 @@ function OrderScreen({ route }) {
   const handleOrderConfirmation = () => {
     if (!customerName || !phoneNumber || !shippingAddress) {
       // Hiển thị thông báo yêu cầu nhập đầy đủ thông tin khách hàng
-      alert('Vui lòng nhập đầy đủ thông tin khách hàng!');
+      alert('Vui lòng nhập đầy đủ thông tin!');
     } else {
-      console.log('Đơn hàng đã được xác nhận!');
+      console.log('Đơn hàng được xác nhận!');
       navigation.navigate('Invoice', {
         customerName,
         phoneNumber,

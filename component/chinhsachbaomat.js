@@ -33,7 +33,7 @@ Khi bạn đăng ký với chúng tôi và sử dụng Ứng dụng, bạn thư�
 
 Chúng tôi cũng có thể sử dụng thông tin bạn cung cấp cho chúng tôi để liên hệ với bạn theo thời gian để cung cấp cho bạn thông tin quan trọng, thông báo bắt buộc và các chương trình khuyến mãi tiếp thị.
 
-Thông tin được Thu thập Tự động:
+Thông tin được Thu thập Tự động:////////////////////
 
 Ứng dụng có thể tự động thu thập thông tin nhất định, bao gồm nhưng không giới hạn: loại thiết bị di động bạn sử dụng, địa chỉ IP của thiết bị di động, hệ điều hành thiết bị di động, Trình duyệt Internet bạn sử dụng và thông tin về cách bạn sử dụng Ứng dụng.
 

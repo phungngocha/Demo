@@ -18,7 +18,7 @@ function LoginScreen() {
   const navigation = useNavigation();
 
   const handleLogin = () => {
-    if (username === 'ha' && password === '123') {
+    if (username === 'ha' && password === '12345') {
       navigation.navigate('Home');
     } else {
       alert('nhập hoặc mật khẩu không đúng.');

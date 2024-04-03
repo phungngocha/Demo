@@ -47,7 +47,7 @@ Các bên thứ ba có thấy và / hoặc có quyền truy cập vào thông ti
 
 Chúng tôi có thể tiết lộ Thông tin do Người dùng Cung cấp và Tự động Thu thập:
 
-- Theo yêu cầu của pháp luật, chẳng hạn như lý do hầu tòa hoặc quy trình pháp lý tương tự;.sjkdhsjdfghjsgf
+- Theo yêu cầu của pháp luật, chẳng hạn như lý do hầu tòa hoặc quy trình pháp lý tương tự;.sjkdhsjdfghjsgfgit
 
 - Khi chúng tôi tin rằng việc tiết lộ là cần thiết để bảo vệ quyền lợi của chúng tôi, bảo vệ sự an toàn của bạn hoặc sự an toàn của người khác, điều tra gian lận hoặc trả lời yêu cầu của chính phủ;
 

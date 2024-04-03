@@ -4,7 +4,7 @@ import { View, Text, StyleSheet } from 'react-native';
 function chinhsachdoitra() {
   return (
     <View style={styles.container}>
-      <Text>Đây Chính Sách đổi trả của chúng tôi:</Text>
+      <Text> Chính Sách đổi trả của chúng tôi:</Text>
       {/* Thêm thông tin chi tiết về chính sách bảo mật ở đây */}
     </View>
   );

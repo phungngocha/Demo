@@ -13,7 +13,7 @@ function RegisterScreen() {
       // Sau đó, chuyển người dùng đến màn hình đăng nhập hoặc trang chính
     } else {
       // Xử lý lỗi đăng ký
-      alert('Thông tin đăng ký không hợp lệ.');
+      alert('Thông tin  không hợp lệ.');
     }
   };
 

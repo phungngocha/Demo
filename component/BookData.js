@@ -18,7 +18,7 @@ const books = [
       author: 'Erica Layne',
       year: 2023,
       price: 10,
-      category: 'Tâm Lý ',
+      category: 'Tâm lí ',
       description: 'Cuốn sách "Sống tối giản" của tác giả Erica Layne là hướng dẫn toàn diện về cách sống tối giản. Tác giả chia sẻ câu chuyện của bản thân về hành trình từ một người sống trong sự bận rộn, lộn xộn đến một người sống một cuộc sống đơn giản, tập trung vào những điều quan trọng.',
       image: require('../screens/img/song-toi-gian.jpg'),
     },

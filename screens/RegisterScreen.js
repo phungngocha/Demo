@@ -9,8 +9,7 @@ function RegisterScreen() {
   const handleRegister = () => {
     // Kiểm tra các điều kiện đăng ký (chẳng hạn kiểm tra tính hợp lệ của tên đăng nhập và mật khẩu)
     if (username && password && password === confirmPassword) {
-      // Thực hiện đăng ký và lưu thông tin người dùng (có thể sử dụng AsyncStorage hoặc API)
-      // Sau đó, chuyển người dùng đến màn hình đăng nhập hoặc trang chính
+    
     } else {
       // Xử lý lỗi đăng ký
       alert('Thông tin  không hợp lệ.');

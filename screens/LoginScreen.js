@@ -21,7 +21,7 @@ function LoginScreen() {
     if (username === 'ha' && password === '123') {
       navigation.navigate('Home');
     } else {
-      alert('Tên đăng nhập hoặc mật khẩu không đúng.');
+      alert('nhập hoặc mật khẩu không đúng.');
     }
   };
 

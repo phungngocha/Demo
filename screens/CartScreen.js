@@ -54,16 +54,17 @@ function CartScreen({ route }) {
 
   const renderItem = ({ item }) => (
     <View style={styles.cartItem}>
-      <Image source={item.image} style={styles.bookImage} />
+       <TouchableOpacity style={styles.deleteButton} onPress={() => deleteItem(item.id)}>
+        <Text style={styles.deleteButtonText}>Xóa</Text>
+      </TouchableOpacity>
+      
       <View style={styles.bookInfo}>
         <Text>Tên sách: {item.title}</Text>
         <Text>Tác giả: {item.author}</Text>
         <Text>Số lượng: {item.quantity}</Text>
-        <Text>Giá: {item.price}</Text>
+        <Text>Giá: {item.price} </Text>
       </View>
-      <TouchableOpacity style={styles.deleteButton} onPress={() => deleteItem(item.id)}>
-        <Text style={styles.deleteButtonText}>Xóa</Text>
-      </TouchableOpacity>
+      <Image source={item.image} style={styles.bookImage} />
     </View>
   );
 

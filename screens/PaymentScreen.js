@@ -90,6 +90,7 @@ function PaymentScreen ({ route })  {
     // };
    // Hàm tính tổng tiền ban đầu
    const calculateInitialTotal = () => {
+  
     return book.price * quantity; // Số tiền ban đầu là giá của quyển sách nhân với số lượng
   };
   

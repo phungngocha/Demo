@@ -25,7 +25,7 @@ const books = [
     {
       id: '3',
       code: 'MS003',
-      title: 'Sống như loài chó',
+      title: 'Sống như loài người',
       author: 'Alison Davies',
       year: 2023,
       price: 100000,

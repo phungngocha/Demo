@@ -42,9 +42,6 @@ export default function App() {
         <Stack.Screen name="Payment" component={PaymentScreen} options={{ headerShown: false }} />
         <Stack.Screen name="chinhsach" component={chinhsachbaomat} options={{ headerShown: false }} />
         <Stack.Screen name="chinhsachdoitra" component={chinhsachdoitra} options={{ headerShown: false }} />
-        <Stack.Screen name="Payment" component={PaymentScreen} options={{ headerShown: false }} />
-        <Stack.Screen name="chinhsach" component={chinhsachbaomat} options={{ headerShown: false }} />
-        <Stack.Screen name="chinhsachdoitra" component={chinhsachdoitra} options={{ headerShown: false }} />
       </Stack.Navigator>
     
     </NavigationContainer>

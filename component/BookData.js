@@ -40,7 +40,7 @@ const books = [
       author: 'John Doerr',
       year: 2023,
       price: 100000,
-      category: 'Tâm Lý - Kỹ Năng sống',
+      category: ' Kỹ Năng sống',
       description: 'Cuốn sách "Làm Điều Quan Trọng" của tác giả John Doerr giới thiệu phương pháp quản trị OKRs (Objectives and Key Results), một công cụ được sử dụng bởi nhiều công ty công nghệ hàng đầu thế giới như Google, Intel, Adobe,... OKRs giúp doanh nghiệp tập trung vào những mục tiêu quan trọng nhất, đồng thời khuyến khích sự sáng tạo và tự chủ của nhân viên.',
       image: require('../screens/img/lam-dieu-quan-trong.jpg'),
     },

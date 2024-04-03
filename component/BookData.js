@@ -30,7 +30,7 @@ const books = [
       year: 2023,
       price: 100000,
       category: 'Tâm Lý - Kỹ Năng Sống',
-      description: 'Sách "Sống như loài mèo" của tác giả Alison Davies là một cuốn sách phi hư cấu kể về hành trình của tác giả học hỏi những bài học từ hai chú mèo của mình, Minnie và Honey. Tác giả đã nhận nuôi Minnie và Honey từ một trạm cứu hộ. Cô nhận ra rằng mình yêu mến hai chú mèo này rất nhiều và thậm chí còn học hỏi được nhiều điều từ chúng.Một ngày nọ, Minnie bị một chú chó khác tấn công và bị thương nặng. Với sự chăm sóc tận tình của tác giả, Minnie đã dần hồi phục và trở lại cuộc sống bình thường.',
+      description: 'Sách "Sống như loài mèo" của tác giả Alison  là một cuốn sách phi hư cấu kể về hành trình của tác giả học hỏi những bài học từ hai chú mèo của mình, Minnie và Honey. Tác giả đã nhận nuôi Minnie và Honey từ một trạm cứu hộ. Cô nhận ra rằng mình yêu mến hai chú mèo này rất nhiều và thậm chí còn học hỏi được nhiều điều từ chúng.Một ngày nọ, Minnie bị một chú chó khác tấn công và bị thương nặng. Với sự chăm sóc tận tình của tác giả, Minnie đã dần hồi phục và trở lại cuộc sống bình thường.',
       image: require('../screens/img/song-nhu-loai-meo.jpg'),
     },
     {

@@ -157,7 +157,7 @@ function CartScreen({ route }) {
   setTotal(soNgauNhien);
     // Thực hiện logic khi áp dụng mã ưu đãi
     console.log('Áp dụng mã ưu đãi:', promoCode);
-    console.log('Tổng mới:', soNgauNhien);
+    console.log('Tổng:', soNgauNhien);
     setPromoCode('');
 
   // Tùy chọn: Bạn có thể muốn đặt một cờ chỉ định rằng mã giảm giá đã được áp dụng

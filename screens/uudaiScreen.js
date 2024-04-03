@@ -26,7 +26,7 @@ function uudaiScreen() {
     }, [selectedFilter]);
     const handleCornerButtonClick = (item) => {
       // Thực hiện các thao tác khi nhấn vào button ở góc dưới bên trái
-      console.log('Button clicked for item:', item);
+      console.log('Button clicked for :', item);
       navigation.navigate('cart', { appliedPromo: item });
     };
     

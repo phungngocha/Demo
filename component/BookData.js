@@ -2,13 +2,13 @@
 const books = [
     {
       id: '1',
-      code: 'MS001',
+      code: "ms002"
       title: 'Ngân hàng đột phá',
       author: 'Brett King',
       year: 2023,
       price: 100000 ,
       category: 'Kinh tế',
-      description: 'Cuốn sách "Ngân Hàng Đột Phá" của tác giả Brett King là một cuốn sách hay và đáng đọc đối với những ai quan tâm đến ngành ngân hàng và các công nghệ mới đang tác động đến ngành này. Cuốn sách cung cấp cái nhìn tổng quan về những xu hướng đột phá đang thay đổi ngành ngân hàng',
+      description: 'Cuốn sách "Ngân Hàng Đột Phá" của tác giả Brett King là một cuốn sách đáng đọc đối với những ai quan tâm đến ngành ngân hàng và các công nghệ mới đang tác động đến ngành này. Cuốn sách cung cấp cái nhìn tổng quan về những xu hướng đột phá đang thay đổi ngành ngân hàng',
       image: require('../screens/img/ngan-hang-dot-pha.jpg'),
     },
     {
